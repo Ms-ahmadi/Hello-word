@@ -1,2 +1,5 @@
 # Hello-word
-this is for test and learning github.
+
+hello everybody!
+I am glad to share the first project with you.
+It is for testing and learning github. 
