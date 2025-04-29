@@ -1,3 +1,5 @@
 hello my freind
 this is test code.
 
+
+new line add for commit2.
